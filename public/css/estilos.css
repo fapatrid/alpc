@@ -1,0 +1,10 @@
+*
+#navegador li { margin:00px; padding: 5px; background-color: blue; width: 200px; float: right; 
+	list-style-type: none;  position: relative;  }
+#navegador li a:link { color: blue; text-decoration: none; }
+#navegador li a:visited { color: white; text-decoration: none; }
+#navegador li a:hover { color:blue ; text-decoration: none; }
+#navegador li a:active { color:blue ; text-decoration: none; }
+#subseccion1 { padding: 5px; width: 200px;
+position: absolute; top: 100%; left: 0px; background-color: grey; font-family: arial; display: none; }
+.borrar { clear: both; }

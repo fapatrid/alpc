@@ -1,0 +1,22 @@
+
+#navegador {text-align: left }
+
+#navegador li { margin:0px; padding: 0.1em 1em 0.5em 1em; 
+           background-color: #0085CA; width: 12%;float: right;
+           list-style-type: none; position: relative; }
+
+#subseccion1, #subseccion2, #subseccion3, #subseccion4 
+             { position: absolute; top: 100%; left: 0px; padding: 0.1em 1em 0.5em 1em;  
+             background-color: #9E978E; width: 100%; font:normal 0.8em arial;  
+             padding: 0.2em 0.5em ; display: none; }
+             				 
+#navegador li:hover { background-color: #0085CA; }
+#navegador li a:link, #navegador li a:visited { 
+           color: #feffe4; text-decoration: none; }
+#navegador li a:hover, #navegador li a:active { 
+           color:#74D1EA ; text-decoration: none; }
+.borrar { clear: both; }	
+
+#principal h2 { font: bold 1.5em arial; padding: 0.5em }
+#principal p { font: normal 0.9em arial; text-align: justify;
+           text-indent: 3em; padding: 0.5em 2em; }
